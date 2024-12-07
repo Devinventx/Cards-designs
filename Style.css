@@ -1,0 +1,46 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body {
+    background-color: gray;
+}
+
+.box {
+    background-color: white;
+    height: 550px;
+    width: 400px;
+    border-radius: 20px;
+    margin: auto;
+    padding: 10px;
+    margin-top: 15px;
+}
+
+img {
+    height: auto;
+    width: 400px;
+    border-radius: 20px;
+}
+
+.natur {
+    display: inline-block;
+    width: 50px;
+    border: solid gray 1px;
+    text-align: center;
+    color: gray;
+    border-radius: 20px;
+    padding: 5px;
+    margin: 10px;
+}
+
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 10px;
+}
+
+p {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 10px;
+}
